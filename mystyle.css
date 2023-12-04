@@ -1,0 +1,15 @@
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    border: 5px solid lime;
+    text-align: center;
+    color: chartreuse; 
+
+}
+a{
+    color: blue;
+}
+a:link{
+    color: chartreuse;
+}
